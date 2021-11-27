@@ -30,6 +30,8 @@ He is meant to work with Denver and Cecilia, and I haven't made an option for hi
 - Spouse patio
 - Kids that look like him
 - Possibly a standalone version
+- Flower dance sprites
+- Halloween costumes
 
 ### KNOWN BUGS: ###
 
