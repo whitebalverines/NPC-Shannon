@@ -1,3 +1,5 @@
+### CURRENTLY BROKEN, I PROMISE HE WILL BE UPDATED SOMEDAY ###
+
 Shannon is a young man from Opportunity who dreams of becoming a doctor. He's currently a certified nurse interning under Doctor Harvey and rooms with Cecilia.
 
 He's far from normal, however, but doesn't know exactly why.
